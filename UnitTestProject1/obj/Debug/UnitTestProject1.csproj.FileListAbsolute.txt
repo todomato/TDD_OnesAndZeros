@@ -1,0 +1,7 @@
+c:\users\dream\documents\visual studio 2013\Projects\TDDPractice\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+c:\users\dream\documents\visual studio 2013\Projects\TDDPractice\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+c:\users\dream\documents\visual studio 2013\Projects\TDDPractice\UnitTestProject1\bin\Debug\TDDPractice.dll
+c:\users\dream\documents\visual studio 2013\Projects\TDDPractice\UnitTestProject1\bin\Debug\TDDPractice.pdb
+c:\users\dream\documents\visual studio 2013\Projects\TDDPractice\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+c:\users\dream\documents\visual studio 2013\Projects\TDDPractice\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+c:\users\dream\documents\visual studio 2013\Projects\TDDPractice\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

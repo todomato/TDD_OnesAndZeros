@@ -1,0 +1,5 @@
+c:\users\dream\documents\visual studio 2013\Projects\TDDPractice\TDDPractice\bin\Debug\TDDPractice.dll
+c:\users\dream\documents\visual studio 2013\Projects\TDDPractice\TDDPractice\bin\Debug\TDDPractice.pdb
+c:\users\dream\documents\visual studio 2013\Projects\TDDPractice\TDDPractice\obj\Debug\TDDPractice.csprojResolveAssemblyReference.cache
+c:\users\dream\documents\visual studio 2013\Projects\TDDPractice\TDDPractice\obj\Debug\TDDPractice.dll
+c:\users\dream\documents\visual studio 2013\Projects\TDDPractice\TDDPractice\obj\Debug\TDDPractice.pdb
